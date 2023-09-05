@@ -1,0 +1,573 @@
+.home-desktop {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-desktop .div {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(252, 255, 248, 0.5) 0%, rgb(251, 233, 254) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home-desktop .frame {
+  align-items: flex-start;
+  display: flex;
+  height: 897px;
+  left: 0;
+  position: absolute;
+  top: 129px;
+  width: 1920px;
+}
+
+.home-desktop .overlap-group-wrapper {
+  align-self: stretch;
+  border-color: #a08ea3;
+  border-right-style: solid;
+  border-right-width: 1px;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.home-desktop .overlap-group {
+  background-color: #f6f6f6;
+  height: 899px;
+  position: relative;
+  top: -1px;
+  width: 384px;
+}
+
+.home-desktop .overlap-group:hover {
+  transition: transform .2s;
+  transform: scale(1.1);
+}
+
+.home-desktop .element {
+  height: 897px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 384px;
+}
+
+.home-desktop .element:hover {
+  transition: transform .2s;
+  transform: scale(1.1);
+
+}
+
+.home-desktop .title {
+  height: 51px;
+  left: 58px;
+  position: absolute;
+  top: 418px;
+  width: 269px;
+}
+
+.home-desktop .title-wrapper {
+  align-self: stretch;
+  background-color: #ffffff;
+  background-image: url(../../../static/img/58170879-0004-m-1.png);
+  background-size: 100% 100%;
+  border-color: #a08ea3;
+  border-right-style: solid;
+  border-right-width: 1px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.home-desktop .img {
+  height: 53px;
+  left: 40px;
+  position: absolute;
+  top: 416px;
+  width: 305px;
+}
+
+.home-desktop .overlap-wrapper {
+  align-self: stretch;
+  background-color: #ffffff;
+  border-color: #a08ea3;
+  border-right-style: solid;
+  border-right-width: 1px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.home-desktop .overlap {
+  background-image: url(../../../static/img/the-couture-club-t-shirt-noir-940641-1-1.png);
+  background-size: 100% 100%;
+  height: 897px;
+  position: relative;
+  width: 384px;
+}
+
+.home-desktop .title-2 {
+  height: 52px;
+  left: 57px;
+  position: absolute;
+  top: 416px;
+  width: 269px;
+}
+
+.home-desktop .img-wrapper {
+  align-self: stretch;
+  background-color: #ffffff;
+  background-image: url(../../../static/img/805167-c06-zoomx-1.png);
+  background-size: 100% 100%;
+  border-color: #a08ea3;
+  border-right-style: solid;
+  border-right-width: 1px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.home-desktop .title-3 {
+  height: 69px;
+  left: 82px;
+  position: absolute;
+  top: 413px;
+  width: 223px;
+}
+
+.home-desktop .div-wrapper {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.home-desktop .overlap-2 {
+  background-color: #ffffff;
+  height: 897px;
+  left: -1px;
+  position: relative;
+  width: 385px;
+}
+
+.home-desktop .STREET {
+  height: 897px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.home-desktop .title-4 {
+  height: 52px;
+  left: 38px;
+  position: absolute;
+  top: 416px;
+  width: 313px;
+}
+
+.home-desktop .frame-2 {
+  align-items: center;
+  background-color: #b6f13a;
+  border-radius: 57px;
+  display: inline-flex;
+  gap: 24px;
+  justify-content: center;
+  left: 1677px;
+  padding: 18px 32px;
+  position: absolute;
+  top: 30px;
+}
+
+.home-desktop .text-wrapper {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  height: 20px;
+  letter-spacing: -0.4px;
+  line-height: 22.5px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.home-desktop .vector {
+  height: 14px;
+  margin-right: -1px;
+  position: relative;
+  width: 17px;
+}
+
+.home-desktop .group {
+  height: 58px;
+  left: 32px;
+  position: absolute;
+  top: 29px;
+  width: 131px;
+}
+
+.home-desktop .overlap-3 {
+  height: 62px;
+  left: -4px;
+  position: relative;
+  top: -4px;
+  width: 129px;
+}
+
+.home-desktop .text-wrapper-2 {
+  -webkit-text-stroke: 3.94px #243208;
+  color: #b6f13a;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 42.2px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.38px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home-desktop .group-2 {
+  background-image: url(../../../static/img/subtract-1.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 68px;
+  position: absolute;
+  top: 48px;
+  width: 51px;
+}
+
+.home-desktop .overlap-group-2 {
+  height: 7px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 43px;
+}
+
+.home-desktop .vector-2 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.home-desktop .ellipse {
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 40px;
+}
+
+.home-desktop .header {
+  align-items: flex-start;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #e2d9db;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 1922px;
+}
+
+.home-desktop .header-left-section {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.home-desktop .menu {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.home-desktop .logo-wrapper {
+  align-items: center;
+  align-self: stretch;
+  border-color: #e2d9db;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.home-desktop .logo {
+  height: 42.26px;
+  position: relative;
+  width: 96.24px;
+}
+
+.home-desktop .bar-wrapper {
+  background-image: url(../../../static/img/texte.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -3px;
+  position: relative;
+  top: -3px;
+  width: 102px;
+}
+
+.home-desktop .bar {
+  background-image: url(../../../static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 51px;
+  position: relative;
+  top: 34px;
+  width: 39px;
+}
+
+.home-desktop .overlap-group-3 {
+  height: 5px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 33px;
+}
+
+.home-desktop .vector-3 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.home-desktop .ellipse-2 {
+  height: 3px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.home-desktop .header-right-section {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.home-desktop .search-bar {
+  align-items: center;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  padding: 32px 40px;
+  position: relative;
+  width: 378px;
+}
+
+.home-desktop .label {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: -0.44px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.home-desktop .search-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.home-desktop .overlap-group-4 {
+  height: 24px;
+  position: relative;
+}
+
+.home-desktop .ellipse-3 {
+  border: 2.5px solid;
+  border-color: #243208;
+  border-radius: 10.5px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.home-desktop .vector-4 {
+  height: 8px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 8px;
+}
+
+.home-desktop .div-2 {
+  align-items: center;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 32px 40px;
+  position: relative;
+}
+
+.home-desktop .fav-icon {
+  height: 24.3px;
+  margin-left: -0.3px;
+  margin-right: -0.3px;
+  margin-top: -0.3px;
+  position: relative;
+  width: 27.6px;
+}
+
+.home-desktop .price {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.home-desktop .account-icon {
+  height: 24px;
+  position: relative;
+  width: 23px;
+}
+
+.home-desktop .rectangle {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.home-desktop .ellipse-4 {
+  border: 2.5px solid;
+  border-color: #243208;
+  border-radius: 7.24px/7.09px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.home-desktop .image {
+  height: 54px;
+  left: 0;
+  position: fixed;
+  top: 1026px;
+  width: 1920px;
+}
+
+.home-desktop .image-2 {
+  height: 129px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.header-left-section {
+  position: relative;
+}
+
+/* Utilisé pour rendre l'image cliquable */
+.image-as-button {
+  cursor: pointer;
+  /* position: absolute; */
+  top: 0;
+  left: 0;  /* Ajuster en fonction de l'emplacement de votre image de menu */
+  z-index: 2;
+}
+
+/* Le style de la barre déroulante */
+.dropdown-menu {
+  position: absolute;
+  top: 50px;  /* La hauteur du bouton + un peu de marge */
+  left: 0;  /* Ajuster en fonction de l'emplacement de votre image de menu */
+  z-index: 1;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+/* Les éléments dans la barre déroulante */
+.dropdown-menu a {
+  padding: 12px 16px;
+  display: block;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Au survol des éléments dans la barre déroulante */
+.dropdown-menu a:hover {
+  background-color: #f1f1f1;
+}
+
+/* Style du menu déroulant */
+.dropdown-menu {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  z-index: 1000;  /* Ajustez cette valeur si nécessaire */
+  border: 2px solid #333; /* Couleur de la bordure */
+  background-color: #444; /* Couleur d'arrière-plan */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Ombre */
+  border-radius: 5px; /* Bords arrondis */
+}
+
+/* Les éléments dans le menu déroulant */
+.dropdown-menu a {
+  padding: 12px 16px;
+  display: block;
+  text-align: left;
+  color: #fff; /* Couleur du texte */
+  font-weight: bold; /* Gras */
+  border-bottom: 1px solid #555; /* Séparateur entre les éléments */
+}
+
+/* Au survol des éléments du menu déroulant */
+.dropdown-menu a:hover {
+  background-color: #555; /* Couleur au survol */
+}
+
+/* Pour supprimer la bordure du dernier élément */
+.dropdown-menu a:last-child {
+  border-bottom: none;
+}
+
+/* Ajouté pour rendre l'icône de recherche plus grande */
+.search-icon {
+  cursor: pointer;
+}
+.search-bar input.label {
+  font-size: 12px;  /* Ajustez cette valeur selon vos besoins */
+}

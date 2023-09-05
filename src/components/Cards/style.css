@@ -1,0 +1,214 @@
+.cards {
+  align-items: center;
+  border: 0.5px solid;
+  border-color: #e2d9db;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.cards .img-container {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.cards .content-container {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.cards .title-price {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2px;
+  position: relative;
+}
+
+.cards .title {
+  align-self: stretch;
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.28px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.cards .price {
+  align-self: stretch;
+  color: #243208;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: relative;
+}
+
+.cards .fav-icon {
+  height: 19.3px;
+  margin-right: -0.3px;
+  position: relative;
+  width: 21.6px;
+}
+
+.cards .title-price-2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #e2d9db;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  height: 84.5px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.cards .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.cards .title-2 {
+  color: #243208;
+  flex: 1;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 44px;
+  letter-spacing: -0.36px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.cards .div-wrapper {
+  align-items: center;
+  align-self: stretch;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 24px;
+  position: relative;
+}
+
+.cards .text-wrapper-7 {
+  color: #243208;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 29.5px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: normal;
+  margin-top: -1.25px;
+  position: relative;
+  width: fit-content;
+}
+
+.cards .cart-size {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-top: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.cards .size-dropdown-instance {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.cards .instance-node {
+  align-self: stretch !important;
+  border-bottom-style: unset !important;
+  border-bottom-width: unset !important;
+  border-color: unset !important;
+  border-top-style: unset !important;
+  border-top-width: unset !important;
+  width: 100% !important;
+}
+
+.cards .size-dropdown-2 {
+  align-self: unset !important;
+  height: 69px !important;
+}
+
+.cards .img {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.cards.desktop {
+  height: 694px;
+  width: 470px;
+}
+
+.cards.mobile {
+  gap: 6px;
+  padding: 0px 0px 8px;
+  width: 161px;
+}
+
+.cards.desktop.default {
+  overflow: hidden;
+}
+
+.cards.mobile .img-container {
+  background-image: url(../../../static/img/klipartz-1.png);
+  height: 214px;
+}
+
+.cards.desktop.deployed .img-container {
+  background-image: url(../../../static/img/klipartz-1-11.png);
+  height: 237px;
+}
+
+.cards.desktop.default .img-container {
+  background-image: url(../../../static/img/klipartz-1-10.png);
+  height: 610px;
+}
+
+.cards.hover.desktop .img-container {
+  background-image: url(../../../static/img/klipartz-1-12.png);
+  height: 535.5px;
+}
+
+.cards.desktop .content-container {
+  flex-direction: column;
+  margin-top: -1px;
+}
+
+.cards.mobile .content-container {
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 16px;
+}

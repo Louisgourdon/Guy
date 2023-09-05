@@ -1,0 +1,764 @@
+.item-purschase {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.item-purschase .div-2 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(252, 255, 248, 0.5) 0%, rgb(251, 233, 254) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.item-purschase .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 809px;
+  left: 512px;
+  position: absolute;
+  top: 217px;
+  width: 1408px;
+}
+
+.item-purschase .cards-instance {
+  margin-left: -0.5px !important;
+  margin-top: -0.5px !important;
+}
+
+.item-purschase .design-component-instance-node {
+  height: 7px !important;
+  margin-bottom: -227.5px !important;
+  margin-left: -3813px !important;
+  margin-right: unset !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-2 {
+  margin-top: -0.5px !important;
+}
+
+.item-purschase .cards-3 {
+  height: 7px !important;
+  margin-bottom: -227.5px !important;
+  margin-left: -4282px !important;
+  margin-right: unset !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-4 {
+  height: 7px !important;
+  margin-bottom: -227.5px !important;
+  margin-left: -4751px !important;
+  margin-right: unset !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-5 {
+  align-items: center;
+  border: 0.5px solid;
+  border-color: #e2d9db;
+  display: flex;
+  flex-direction: column;
+  height: 694px;
+  margin-bottom: -577.5px;
+  margin-left: -0.5px;
+  overflow: hidden;
+  position: relative;
+  width: 470px;
+}
+
+.item-purschase .klipartz-wrapper {
+  align-self: stretch;
+  height: 610px;
+  position: relative;
+  width: 100%;
+}
+
+.item-purschase .klipartz {
+  height: 170px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 469px;
+}
+
+.item-purschase .content-container-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.item-purschase .title-price-3 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #e2d9db;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  height: 84.5px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.item-purschase .title-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.item-purschase .title-3 {
+  color: #243208;
+  flex: 1;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  height: 44px;
+  letter-spacing: -0.36px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.item-purschase .price-2 {
+  align-items: center;
+  align-self: stretch;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 24px;
+  position: relative;
+}
+
+.item-purschase .text-wrapper-8 {
+  color: #243208;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 29.5px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: normal;
+  margin-top: -1.25px;
+  position: relative;
+  width: fit-content;
+}
+
+.item-purschase .cart-size-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-top: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.item-purschase .size-dropdown-3 {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.item-purschase .size-dropdown-4 {
+  align-self: stretch !important;
+  border-bottom-style: unset !important;
+  border-bottom-width: unset !important;
+  border-color: unset !important;
+  border-top-style: unset !important;
+  border-top-width: unset !important;
+  width: 100% !important;
+}
+
+.item-purschase .size-dropdown-5 {
+  align-self: unset !important;
+  height: 69px !important;
+}
+
+.item-purschase .size-dropdown-6 {
+  height: 7px !important;
+  margin-left: -3813px !important;
+  margin-right: unset !important;
+  margin-top: -403.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .fav {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -3753px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .cart {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -3676px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .cards-6 {
+  align-items: center;
+  border: 0.5px solid;
+  border-color: #e2d9db;
+  display: flex;
+  flex-direction: column;
+  height: 694px;
+  margin-bottom: -577.5px;
+  overflow: hidden;
+  position: relative;
+  width: 470px;
+}
+
+.item-purschase .size-dropdown-7 {
+  height: 7px !important;
+  margin-left: -4282px !important;
+  margin-right: unset !important;
+  margin-top: -403.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .fav-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -4222px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .cart-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -4145px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .size-dropdown-8 {
+  height: 7px !important;
+  margin-left: -4751px !important;
+  margin-right: unset !important;
+  margin-top: -403.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .fav-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -4691px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .cart-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -4614px;
+  margin-top: -434.5px;
+  position: relative;
+}
+
+.item-purschase .cards-7 {
+  background-image: url(../../../static/img/klipartz-1-1.png) !important;
+  margin-left: -4070px !important;
+  margin-top: -435px !important;
+}
+
+.item-purschase .cards-8 {
+  margin-left: -3753px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .cards-9 {
+  margin-left: -3676px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .cards-10 {
+  margin-bottom: -1270.5px !important;
+  margin-left: -0.5px !important;
+}
+
+.item-purschase .cards-11 {
+  height: 7px !important;
+  margin-left: -3813px !important;
+  margin-right: unset !important;
+  margin-top: -1096.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-12 {
+  margin-bottom: -1270.5px !important;
+}
+
+.item-purschase .cards-13 {
+  background-image: url(../../../static/img/klipartz-1-1.png) !important;
+  margin-left: -4539px !important;
+  margin-top: -435px !important;
+}
+
+.item-purschase .cards-14 {
+  height: 7px !important;
+  margin-left: -4282px !important;
+  margin-right: unset !important;
+  margin-top: -1096.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-15 {
+  margin-left: -4222px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .cards-16 {
+  margin-left: -4145px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .cards-17 {
+  background-image: url(../../../static/img/klipartz-1-1.png) !important;
+  margin-left: -5008px !important;
+  margin-top: -435px !important;
+}
+
+.item-purschase .cards-18 {
+  height: 7px !important;
+  margin-left: -4751px !important;
+  margin-right: unset !important;
+  margin-top: -1096.5px !important;
+  width: 12px !important;
+}
+
+.item-purschase .cards-19 {
+  margin-left: -4691px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .cards-20 {
+  margin-left: -4614px !important;
+  margin-top: -1127.5px !important;
+}
+
+.item-purschase .title-4 {
+  color: #243208;
+  font-family: "Sedgwick Ave Display", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: -0.36px;
+  line-height: normal;
+  position: absolute;
+  top: 257px;
+  white-space: nowrap;
+  width: 297px;
+}
+
+.item-purschase .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 40px;
+  position: absolute;
+  top: 340px;
+}
+
+.item-purschase .vector {
+  height: 18.07px;
+  margin-left: -0.54px;
+  margin-top: -1.07px;
+  position: relative;
+  width: 13.07px;
+}
+
+.item-purschase .label-2 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: -0.4px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.item-purschase .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 40px;
+  position: absolute;
+  top: 373px;
+}
+
+.item-purschase .vector-2 {
+  height: 18.07px;
+  margin-bottom: -1.07px;
+  margin-left: -0.54px;
+  position: relative;
+  width: 13.07px;
+}
+
+.item-purschase .label-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 68px;
+  position: absolute;
+  top: 428px;
+}
+
+.item-purschase .sizes-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 52px;
+  padding: 24px 16px;
+  position: absolute;
+  top: 445px;
+  width: 252px;
+}
+
+.item-purschase .text-wrapper-9 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.item-purschase .text-wrapper-10 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 18px;
+}
+
+.item-purschase .text-wrapper-11 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.item-purschase .text-wrapper-12 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 14px;
+}
+
+.item-purschase .text-wrapper-13 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.item-purschase .text-wrapper-14 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.item-purschase .text-wrapper-15 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: relative;
+  width: 28px;
+}
+
+.item-purschase .header {
+  align-items: flex-start;
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #e2d9db;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: fixed;
+  top: 129px;
+  width: 1922px;
+}
+
+.item-purschase .header-left-section {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.item-purschase .menu {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.item-purschase .logo-wrapper {
+  align-items: center;
+  align-self: stretch;
+  border-color: #e2d9db;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.item-purschase .logo {
+  height: 42.26px;
+  position: relative;
+  width: 96.24px;
+}
+
+.item-purschase .overlap {
+  background-image: url(../../../static/img/texte.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: -3px;
+  position: relative;
+  top: -3px;
+  width: 102px;
+}
+
+.item-purschase .bar {
+  background-image: url(../../../static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 51px;
+  position: relative;
+  top: 34px;
+  width: 39px;
+}
+
+.item-purschase .overlap-group {
+  height: 5px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 33px;
+}
+
+.item-purschase .vector-3 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.item-purschase .ellipse {
+  height: 3px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.item-purschase .header-right-section {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.item-purschase .search-bar {
+  align-items: center;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  padding: 32px 40px;
+  position: relative;
+  width: 378px;
+}
+
+.item-purschase .label-3 {
+  color: #243208;
+  font-family: "Epilogue", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: -0.44px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.item-purschase .search-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.item-purschase .overlap-group-2 {
+  height: 24px;
+  position: relative;
+}
+
+.item-purschase .ellipse-2 {
+  border: 2.5px solid;
+  border-color: #243208;
+  border-radius: 10.5px;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.item-purschase .vector-4 {
+  height: 8px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 8px;
+}
+
+.item-purschase .div-3 {
+  align-items: center;
+  border-color: #e2d9db;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 32px 40px;
+  position: relative;
+}
+
+.item-purschase .fav-icon-2 {
+  height: 24.3px;
+  margin-left: -0.3px;
+  margin-right: -0.3px;
+  margin-top: -0.3px;
+  position: relative;
+  width: 27.6px;
+}
+
+.item-purschase .price-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.item-purschase .account-icon {
+  height: 24px;
+  position: relative;
+  width: 23px;
+}
+
+.item-purschase .rectangle {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.item-purschase .ellipse-3 {
+  border: 2.5px solid;
+  border-color: #243208;
+  border-radius: 7.24px/7.09px;
+  height: 14px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.item-purschase .image {
+  height: 54px;
+  left: 0;
+  position: fixed;
+  top: 1026px;
+  width: 1920px;
+}
+
+.item-purschase .image-2 {
+  height: 129px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
